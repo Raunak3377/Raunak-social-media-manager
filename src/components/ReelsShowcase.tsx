@@ -12,9 +12,16 @@ const reels = [
   },
   {
     title: "Showroom Display Ad",
-    desc: "Visual storytelling for luxury showroom showcases.",
-    type: "Showroom",
-    videoId: "j-XnIg1nfm8",
+    desc: "Visual storytelling.",
+    type: "Tips reel",
+    videoId: "a1qqZhfFblU",
+    icon: <Play className="w-5 h-5" />,
+  },
+    {
+    title: "Transition Makeup",
+    desc: "Makeup ShowOff.",
+    type: "Show Off Edits",
+    videoId: "6of3PMrthVo",
     icon: <Play className="w-5 h-5" />,
   },
   {

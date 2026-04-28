@@ -7,9 +7,11 @@ import { WHATSAPP_LINK } from "../constants";
 const navItems = [
   { name: "Home", href: "#home" },
   { name: "Brands", href: "#brands" },
+  { name: "Ads", href: "#ads-performance" },
   { name: "Reels", href: "#reels" },
   { name: "Systems", href: "#systems" },
   { name: "Experience", href: "#experience" },
+  { name: "Management", href: "#social-management" },
   { name: "Work", href: "#work" },
   { name: "Contact", href: "#contact" },
 ];

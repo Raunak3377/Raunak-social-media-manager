@@ -10,6 +10,8 @@ import VideoGrid from "./components/VideoGrid";
 import ContentEngine from "./components/ContentEngine";
 import PerformanceFunnel from "./components/PerformanceFunnel";
 import SystemsThinking from "./components/SystemsThinking";
+import AdsPerformance from "./components/AdsPerformance";
+import SocialMediaManagement from "./components/SocialMediaManagement";
 import CTASection from "./components/CTASection";
 import Footer from "./components/Footer";
 
@@ -72,8 +74,10 @@ export default function App() {
         <Navbar />
         <Hero />
         <BrandsGrowthSection />
+        <AdsPerformance />
         <ReelsShowcase />
         <ExperienceSection />
+        <SocialMediaManagement />
 
       {/* Interactive Mode Section */}
       <section id="work" className="py-24 px-6 max-w-7xl mx-auto">
